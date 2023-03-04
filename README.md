@@ -9,6 +9,7 @@
 - commit 메세지: [문제 출처(플랫폼)] 문제이름
 - description: 문제 주소
 
+```
 플랫폼 작성법 통일:
 [BOJ] - 백준
 [PGS] - 프로그래머스
@@ -16,3 +17,4 @@
 [CFS] - 코드포스
 [SEA] - 삼성SW Expert Academy
 [ETC] - 그외
+```
