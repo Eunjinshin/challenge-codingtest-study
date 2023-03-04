@@ -16,7 +16,7 @@
 
 [PGS] - 프로그래머스
 
-[LTC] - 리트코드
+[HR] - HackerRank
 
 [CFS] - 코드포스
 
