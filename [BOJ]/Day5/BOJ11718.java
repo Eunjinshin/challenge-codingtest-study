@@ -15,7 +15,7 @@ public class BOJ11718 {
         while ((str = br.readLine()) != null) {
             System.out.println(str);
         }
-
+        char[] c = str.toCharArray() ;
 
     }
 }
